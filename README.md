@@ -2,7 +2,7 @@
 
 An end-to-end, futuristic data-driven machine learning and deep learning framework designed to predict flash floods and optimize emergency response protocols using regional meteorological and geospatial data.
 
-## 📊 Project Overview
+## Project Overview
 Urban flooding poses severe risks to human life, infrastructure, and local economies. This project builds a smart-city asset management ecosystem by processing complex environmental data to build highly reliable forecasting models.
 
 The framework approaches the problem from two angles:
@@ -11,7 +11,7 @@ The framework approaches the problem from two angles:
 
 ---
 
-## 🛠️ Tech Stack & Libraries
+## Tech Stack & Libraries
 * **Language:** Python 3
 * **Environment:** Google Colab / Jupyter Notebook
 * **Data Processing & Analytics:** `pandas`, `numpy`, `scikit-learn`
@@ -21,7 +21,7 @@ The framework approaches the problem from two angles:
 
 ---
 
-## 💾 Dataset Feature Architecture
+## Dataset Feature Architecture
 The analytics ledger ingests regional historical weather metrics containing the following indicators:
 
 | Feature Column | Description |
@@ -40,7 +40,7 @@ The analytics ledger ingests regional historical weather metrics containing the 
 
 ---
 
-## 📈 Model Performance & Evaluation
+## Model Performance & Evaluation
 
 The system was evaluated through intensive splitting loops (80/20 train-test architecture) yielding the following benchmarks:
 
@@ -62,7 +62,7 @@ The system was evaluated through intensive splitting loops (80/20 train-test arc
 
 ---
 
-## 🚀 Getting Started & Execution
+## Getting Started & Execution
 
 ### 1. Clone the Repository
 ```bash
